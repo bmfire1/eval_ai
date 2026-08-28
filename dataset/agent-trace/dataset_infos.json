@@ -1,0 +1,1 @@
+{"default": {"features": {"input_prompt_length": {"_type": "Value"}, "assistant_response_length": {"_type": "Value"}, "num_turns": {"_type": "Value"}, "tool_call_latency": {"_type": "Value"}, "tool_call_output_length": {"_type": "Value"}, "final_assistant_response_length": {"_type": "Value"}}, "splits": {"train": {"name": "train", "dataset_name": "trie-workloads"}}}}
